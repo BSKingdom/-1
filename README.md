@@ -5,6 +5,13 @@
 <title>BSKING</title>
 <meta charset="gb2312">
 <meta charset="iso-8859-1" />
+<style>
+iframe{
+ width:800px;
+ height:600px;
+ border:none;
+ }
+ </style>
 </head>
 
 <body>
@@ -26,6 +33,17 @@
 <p>
 <h2><a href="google.com.hk" target="_blank">谷歌</a></h2>
 <h2><a href="http://www.4399.com/flash/203517_4.htm" target="_blank">扫雷</a></h2>
-
+<p>&nbsp;</p>
+<iframe src="http://www.baidu.com"></iframe>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 </body>
 </html>

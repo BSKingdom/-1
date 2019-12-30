@@ -12,7 +12,7 @@ iframe{
  border:none;
  }
  </style>
- <meta http-equiv="refresh" content="3;url=http://freelinkdump.com/" />
+ <meta http-equiv="refresh" content="10" />
 </head>
 
 <body>
